@@ -187,7 +187,7 @@ class Program
 
         #region 16)2ci dunya muharibesin gormush borclularin siyahisi cixartmaq
         //debtors
-        //    .FindAll(db => db.BirthDay >= new DateTime(193, 7, 1) && db.BirthDay <= new DateTime(1945, 7, 2))
+        //    .FindAll(db => db.BirthDay >= new DateTime(1939, 7, 1) && db.BirthDay <= new DateTime(1945, 7, 2))
         //    .ForEach(db => Console.WriteLine(db));
 
         #endregion
